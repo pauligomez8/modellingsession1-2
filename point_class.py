@@ -1,3 +1,6 @@
+from color_point import ColorPoint
+
+
 class Point:
     def __init__(self, x, y):
         """
