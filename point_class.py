@@ -1,5 +1,3 @@
-from color_point import ColorPoint
-
 
 class Point:
     def __init__(self, x, y):
@@ -78,3 +76,4 @@ if __name__ == '__main__':
     print(p2.distance_origin(), p3.distance_origin())
     print(p2 * 4)
     print(p2 * 4.2)
+
